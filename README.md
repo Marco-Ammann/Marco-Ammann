@@ -1,9 +1,9 @@
 # 👋 Über mich
 
 Hallo, ich bin Marco Ammann.  
-Seit über zehn Jahren beschäftige ich mich mit Programmierung – angefangen als CNC-Programmierer, heute im Bereich Webentwicklung. In dieser Zeit habe ich viele Technologien kennengelernt und vor allem gelernt, strukturiert zu arbeiten und saubere, verständliche Lösungen umzusetzen.
+Seit über zehn Jahren beschäftige ich mich mit Programmierung verschiedener Arten – angefangen als CNC-Programmierer (G-Code, Fanuc, Siemens, Heidenhain) heute vorallem Webentwicklung (Hauptsächlich Angular). In dieser Zeit habe ich viele Technologien kennengelernt und konnte Erfahrungen mit einigen Konzepten Sammeln (Cleancode, DRY, etc..).
 
-Mich motiviert es, Probleme pragmatisch zu lösen und Projekte Schritt für Schritt weiterzuentwickeln. Ich arbeite gerne eigenständig, schätze aber genauso den Austausch im Team. Neue Technologien probiere ich aus, wenn sie sinnvoll ins Projekt passen – nicht aus Hype, sondern aus Überzeugung.
+Ich arbeite gerne eigenständig, schätze aber genauso den Austausch im Team. Neue Technologien probiere ich aus, wenn sie sinnvoll ins Projekt passen – nicht aus Hype, sondern aus Nutzen. 
 
 ---
 
@@ -19,6 +19,8 @@ Zusätzlich integriert: eine interaktive Enzyklopädie zur Visualisierung von Ch
 ### 🕹️ Browser-Spiel
 Ein webbasiertes Spiel mit objektorientierter Struktur und Mehrfachvererbung, entwickelt für den Einsatz direkt im Browser.
 
+### 🖌️ Kundenwebseiten
+Eine Webseite für ein Malatelier, welches Menschen mit beeinträchtigungen Malerisch unterstützt.
 ---
 
 ## 🌐 Portfolio
@@ -61,4 +63,4 @@ Ein webbasiertes Spiel mit objektorientierter Struktur und Mehrfachvererbung, en
 
 ---
 
-Ich freue mich über den Austausch mit anderen Entwicklern. Wenn dich eines meiner Projekte interessiert oder du an ähnlichen Themen arbeitest, melde dich gerne.
+Ich freue mich über den Austausch mit Entwicklern. Wenn dich eines meiner Projekte interessiert oder du an ähnlichen Themen arbeitest, melde dich gerne.
